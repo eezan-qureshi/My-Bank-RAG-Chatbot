@@ -1,0 +1,7 @@
+streamlit>=1.40
+groq
+chromadb
+pypdf
+python-dotenv
+pandas
+reportlab   # sirf make_sample_pdf.py ke liye (optional)
